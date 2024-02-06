@@ -1,4 +1,4 @@
-# free-cpanel
+# free-cpanel VPS Server
 FREE License of cPanel with our VPS.
 Come to US, and enjoy your GIFT.
 
